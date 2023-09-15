@@ -4,4 +4,6 @@ body {
 p {
    text-align: center;
 }
-
+em strong {
+   color: tomato;
+}
